@@ -1,0 +1,15 @@
+# ninja log v5
+0	385	1696425059	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	a307c0fb46fe7ffb
+0	856	1696425059	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	5c569bb6245f9e20
+0	1180	1696425059	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	47a7a61d3e3e4b06
+1180	1311	1696425059	/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/build/intermediates/cxx/Debug/h3k3bg5h/obj/x86_64/libyolov8ncnn.so	23629455a19c4395
+0	4	0	clean	e6ceb2fe671c9ce6
+2	383	1696425089	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	a307c0fb46fe7ffb
+1	867	1696425089	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	5c569bb6245f9e20
+1	1193	1696425090	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	47a7a61d3e3e4b06
+1194	1285	1696425090	/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/build/intermediates/cxx/Debug/h3k3bg5h/obj/x86_64/libyolov8ncnn.so	23629455a19c4395
+0	4	0	clean	e6ceb2fe671c9ce6
+2	382	1696425259	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	a307c0fb46fe7ffb
+1	872	1696425260	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	5c569bb6245f9e20
+1	1169	1696425260	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	47a7a61d3e3e4b06
+1169	1260	1696425260	/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/build/intermediates/cxx/Debug/h3k3bg5h/obj/x86_64/libyolov8ncnn.so	23629455a19c4395

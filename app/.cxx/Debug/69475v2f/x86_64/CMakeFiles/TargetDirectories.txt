@@ -1,0 +1,3 @@
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86_64/CMakeFiles/rebuild_cache.dir
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86_64/CMakeFiles/edit_cache.dir
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86_64/CMakeFiles/yolov8ncnn.dir

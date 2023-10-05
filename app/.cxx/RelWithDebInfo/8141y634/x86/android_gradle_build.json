@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "ninja",
+      "-C",
+      "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/RelWithDebInfo/8141y634/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "ninja",
+    "-C",
+    "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/RelWithDebInfo/8141y634/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "ninja",
+        "-C",
+        "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/RelWithDebInfo/8141y634/x86",
+        "yolov8ncnn"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "yolov8ncnn",
+      "output": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/build/intermediates/cxx/RelWithDebInfo/8141y634/obj/x86/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

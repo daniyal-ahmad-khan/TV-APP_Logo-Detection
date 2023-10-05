@@ -1,0 +1,68 @@
+{
+  "stringTable": {
+    "0": "D:/Work/identv/ncnn-android-yolov8/ncnn-android-yolov8/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov8ncnn_EXPORTS -isystem D:/Work/identv/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/armeabi-v7a/include/ncnn -isystem D:/Work/identv/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "D:\\Tools\\android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20220420-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\Tools\\android\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\platforms.cmake",
+    "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Tools\\android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Tools\\android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov8ncnn-Debug-armeabi-v7a": {
+      "buildCommand": "D:\\Tools\\android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" yolov8ncnn",
+      "buildType": "debug",
+      "toolchain": "2667827802",
+      "abi": "armeabi-v7a",
+      "artifactName": "yolov8ncnn",
+      "files": [
+        {
+          "src": "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\yolov8ncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\yolo.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\Work\\identv\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\libyolov8ncnn.so"
+    }
+  },
+  "toolchains": {
+    "2667827802": {
+      "cppCompilerExecutable": "D:\\Tools\\android\\Sdk\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

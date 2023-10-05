@@ -1,0 +1,7 @@
+Executable : ninja
+arguments : 
+-C
+/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/Debug/1t82y4f2/x86
+yolov8ncnn
+jvmArgs : 
+

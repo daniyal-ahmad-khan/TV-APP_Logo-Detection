@@ -1,0 +1,25 @@
+The C compiler identification is Clang 11.0.5
+The CXX compiler identification is Clang 11.0.5
+Check for working C compiler: D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+Check for working C compiler: D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+Detecting C compiler ABI info
+Detecting C compiler ABI info - done
+Detecting C compile features
+Detecting C compile features - done
+Check for working CXX compiler: D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+Check for working CXX compiler: D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+Detecting CXX compiler ABI info
+Detecting CXX compiler ABI info - done
+Detecting CXX compile features
+Detecting CXX compile features - done
+Found OpenCV: D:/Work/identv/ncnn-android-yolov8/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android (found version "4.5.1") found components:  core imgproc 
+Found OpenMP_C: -fopenmp=libomp  
+Found OpenMP_CXX: -fopenmp=libomp  
+Found OpenMP: TRUE   
+Looking for pthread.h
+Looking for pthread.h - found
+Looking for pthread_create
+Looking for pthread_create - found
+Found Threads: TRUE  
+Found Vulkan: D:/Tools/android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/24/libvulkan.so  
+Configuring done

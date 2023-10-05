@@ -1,0 +1,5 @@
+# ninja log v5
+0	715	1696424954119433495	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	ba42bb59b29cd7c7
+0	1243	1696424954643430259	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	73bda46129cfa063
+0	1730	1696424955127427269	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	76f2cd2c8203921c
+1730	1880	1696424955283426307	/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/arm64-v8a/libyolov8ncnn.so	25e0d1982e01624

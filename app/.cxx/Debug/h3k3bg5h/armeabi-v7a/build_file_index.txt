@@ -1,0 +1,1 @@
+/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/src/main/jni/CMakeLists.txt

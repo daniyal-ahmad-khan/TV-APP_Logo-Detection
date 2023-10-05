@@ -1,0 +1,7 @@
+Executable : ninja
+arguments : 
+-C
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/Debug/4h1y5ec5/arm64-v8a
+yolov8ncnn
+jvmArgs : 
+

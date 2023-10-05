@@ -1,0 +1,7 @@
+Executable : ninja
+arguments : 
+-C
+/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/.cxx/Debug/3o3g1044/x86
+yolov8ncnn
+jvmArgs : 
+

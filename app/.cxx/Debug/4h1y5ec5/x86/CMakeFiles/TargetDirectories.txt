@@ -1,0 +1,3 @@
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/Debug/4h1y5ec5/x86/CMakeFiles/rebuild_cache.dir
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/Debug/4h1y5ec5/x86/CMakeFiles/edit_cache.dir
+/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/Yolo+MobileFaceNet/combined/app/.cxx/Debug/4h1y5ec5/x86/CMakeFiles/yolov8ncnn.dir

@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/glslangTargets.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/home/daniyal/Android/Sdk/ndk/25.2.9519653/build/cmake/compiler_id.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OSDependentTargets.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnn.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/daniyal/Android/Sdk/ndk/25.2.9519653/build/cmake/platforms.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/glslangTargets-release.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/CMakeLists.txt",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake",
+    "/home/daniyal/Android/Sdk/ndk/25.2.9519653/build/cmake/android-legacy.toolchain.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OGLCompilerTargets.cmake",
+    "/home/daniyal/Android/Sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/cmake/SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "/home/daniyal/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/daniyal/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommand": "/home/daniyal/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/cmake/debug/x86\" yolov8ncnn",
+      "abi": "x86",
+      "output": "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/x86/libyolov8ncnn.so"
+    }
+  }
+}

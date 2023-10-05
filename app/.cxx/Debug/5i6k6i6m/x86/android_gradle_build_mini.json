@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/daniyal/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/.cxx/Debug/5i6k6i6m/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/daniyal/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/.cxx/Debug/5i6k6i6m/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommandComponents": [
+        "/home/daniyal/Android/Sdk/cmake/3.22.1/bin/ninja",
+        "-C",
+        "/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/.cxx/Debug/5i6k6i6m/x86",
+        "yolov8ncnn"
+      ],
+      "abi": "x86",
+      "output": "/home/daniyal/Documents/Upwork/Jared/TVAPP/TVApp/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/x86/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

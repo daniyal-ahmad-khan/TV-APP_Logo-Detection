@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "ninja",
+      "-C",
+      "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/Debug/1t82y4f2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "ninja",
+    "-C",
+    "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/Debug/1t82y4f2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "buildCommandComponents": [
+        "ninja",
+        "-C",
+        "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/Debug/1t82y4f2/x86",
+        "yolov8ncnn"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "yolov8ncnn",
+      "output": "/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/1t82y4f2/obj/x86/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,3 @@
+/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/daniyal/Documents/Upwork/Jared/ncnn-android-yolov8/app/.cxx/cmake/debug/x86/CMakeFiles/yolov8ncnn.dir
